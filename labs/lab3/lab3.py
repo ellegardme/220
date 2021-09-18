@@ -15,7 +15,7 @@ def average():
     for n in range(1, amount + 1):
         grade = (eval(input("Enter your grade on HW" + str(n) + ": ")))
         acc = acc + grade
-    acc = acc / amount
+    acc = grade / amount
     print("Your average grade is", acc)
 
 
