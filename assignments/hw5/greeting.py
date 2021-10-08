@@ -30,7 +30,7 @@ def main():
     arrow.setArrow("last")
     arrow.draw(win)
 
-    # loop
+    # Loop
     for _ in range(15):
         graphics.time.sleep(0.1)
         arrow.move(30, -30)
