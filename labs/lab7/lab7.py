@@ -1,7 +1,7 @@
 """
-Name: <your name goes here – first and last>
-Partner: <your partner's name goes here – first and last>
-<ProgramName>.py
+Name: Madeleine Ellegard
+Partner:
+lab7.py
 """
 
 

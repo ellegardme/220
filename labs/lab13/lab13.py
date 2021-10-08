@@ -1,6 +1,9 @@
 """
-Name: <your name goes here – first and last>
-<ProgramName>.py
+Name: Madeleine Ellegard
+lab13.py
+
+Certification of Authenticity:
+I certify that this assignment is entirely my own work.
 """
 
 def main():
