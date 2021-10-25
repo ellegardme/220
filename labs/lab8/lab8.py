@@ -70,8 +70,6 @@ def main():
     send_message("message.txt", "laura")
     send_safe_message("secret_message.txt", "liz", 5)
     send_uncrackable_message("safest_message.txt", "grace", "pad.txt")
-
-    # add other function calls here
     pass
 
 
